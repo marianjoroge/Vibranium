@@ -1,18 +1,7 @@
-<p align="center">
-<img width="300" height="140"  src="https://github.com/kelvinkamau/Vibranium/blob/master/images/vibranium.png">
-</p>
 
 # Project Vibranium
 The web template is created for DSC SSA Communities to get showcase to the world their
 success stories, upcoming and past events with pictures & event slides.
-
-[Live Demo](https://dsc-kisiiuni.firebaseapp.com)
-
-### Creators
-* Kelvin Kamau
-* Buy me a coffee [here](https://www.buymeacoffee.com/EqeRlzLSc)
-
-### Features
 
 ### Usage
 * Fork repository and clone it locally
@@ -47,7 +36,7 @@ var config = {
 ## Updating
 Here is a git workflow for updating your fork (or downloaded copy) to the latest version:
 ```git
-git remote add upstream https://github.com/kelvinkamau/Vibranium.git
+git remote add upstream https://github.com/DSC-kimathi/Vibranium.git
 git fetch upstream
 git merge upstream/Vibranium
 # resolve the merge conflicts in your editor
