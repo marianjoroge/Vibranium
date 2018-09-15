@@ -25,6 +25,7 @@
    id="defs79">
 	
 	
+
 </defs><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -39,8 +40,8 @@
    id="namedview77"
    showgrid="false"
    inkscape:zoom="1.3346304"
-   inkscape:cx="128.5"
-   inkscape:cy="19.5"
+   inkscape:cx="78.742718"
+   inkscape:cy="19.500001"
    inkscape:window-x="0"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
@@ -67,17 +68,24 @@
 <desc
    id="desc6">Created with Sketch.</desc>
 <g
-   id="g4664"><g
+   id="g997"><g
+     style="stroke-width:0.48687056"
+     transform="matrix(2.0793959,0,0,2.0287838,-37.439719,-19.786899)"
      id="g70">
 		<g
+   style="stroke-width:0.48687056"
    id="g68">
 			<g
+   style="stroke-width:0.48687056"
    id="g66">
 				<g
+   style="stroke-width:0.48687056"
    id="g64">
 					<g
+   style="stroke-width:0.48687056"
    id="g62">
 						<g
+   style="stroke-width:0.48687056"
    id="g60">
 							<defs
    id="defs9">
@@ -100,18 +108,24 @@
    height="100%" />
 							</clipPath>
 							<g
+   style="stroke-width:0.48687056"
    class="st0"
    clip-path="url(#SVGID_2_)"
    id="g54">
 								<g
+   style="stroke-width:0.48687056"
    id="g52">
 									<g
+   style="stroke-width:0.48687056"
    id="g50">
 										<g
+   style="stroke-width:0.48687056"
    id="g48">
 											<g
+   style="stroke-width:0.48687056"
    id="g26">
 												<g
+   style="stroke-width:0.48687056"
    id="g24">
 													<defs
    id="defs15">
@@ -134,6 +148,7 @@
    height="100%" />
 													</clipPath>
 													<g
+   style="stroke-width:0.48687056"
    class="st1"
    clip-path="url(#SVGID_4_)"
    id="g22">
@@ -141,22 +156,26 @@
 															<image
    sodipodi:absref="/var/www/html/Vibranium/images/assets/6AD9AF8D.png"
    xlink:href="6AD9AF8D.png"
-   id="image20"
-   transform="matrix(0.072,0,0,0.072,1.8053,1.0256)"
-   height="526"
+   style="overflow:visible;stroke-width:0.48687056;enable-background:new"
    width="526"
-   style="overflow:visible;enable-background:new">
+   height="526"
+   transform="matrix(0.072,0,0,0.072,1.8053,1.0256)"
+   id="image20">
 														</image>
 													</g>
 												</g>
 											</g>
 											<g
+   style="stroke-width:0.48687056"
    id="g46">
 												<g
+   style="stroke-width:0.48687056"
    id="g42">
 													<g
+   style="stroke-width:0.48687056"
    id="g40">
 														<g
+   style="stroke-width:0.48687056"
    id="g38">
 															<defs
    id="defs29">
@@ -182,12 +201,13 @@
    class="st2"
    clip-path="url(#SVGID_6_)"
    id="g36"
-   style="enable-background:new">
+   style="stroke-width:0.48687056;enable-background:new">
 																<text
    transform="translate(46.1797,26.4546)"
    class="st3 st4 st5"
    id="text34"
-   style="font-size:21.93759918px;font-family:ProductSans-Regular;fill:#020203">DSC Kisii University</text>
+   style="font-size:21.93759918px;font-family:ProductSans-Regular;fill:#020203;stroke-width:0.48687056">DSC Kisii University</text>
+
 
 															</g>
 														</g>
@@ -197,7 +217,8 @@
    transform="translate(44.5,27.4434)"
    class="st4 st6"
    id="text44"
-   style="font-size:23.48240089px;font-family:ProductSans-Regular">DSC Kisii University</text>
+   style="font-size:23.48240089px;font-family:ProductSans-Regular;stroke-width:0.48687056">DSC Kisii University</text>
+
 
 											</g>
 										</g>
@@ -208,12 +229,13 @@
    class="st7"
    clip-path="url(#SVGID_2_)"
    id="g58"
-   style="enable-background:new">
+   style="stroke-width:0.48687056;enable-background:new">
 								<text
    transform="translate(48.0752,27.0146)"
    class="st8 st9 st10"
    id="text56"
-   style="font-size:21.50629997px;font-family:TTNorms-Bold;fill:#606060">DSC Kisii University</text>
+   style="font-size:21.50629997px;font-family:TTNorms-Bold;fill:#606060;stroke-width:0.48687056">DSC Kisii University</text>
+
 
 							</g>
 						</g>
